@@ -1,0 +1,15 @@
+package com.multithread.composaenoteapp.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple200 = Color(0xFFBB86FC)
+val Purple500 = Color(0xFF6200EE)
+val Purple700 = Color(0xFF3700B3)
+val Teal200 = Color(0xFF03DAC5)
+
+val RedOrange = Color(0xffffab91)
+val RedPink = Color(0xFFEB0546)
+val Blue = Color(0xFF0161C9)
+val Violet = Color(0xFFC26AFE)
+val LightGreen = Color(0xFF99EF5C)
+
