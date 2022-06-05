@@ -6,5 +6,6 @@ package com.multithread.composaenoteapp.feature_note.domain.user_case
  */
 data class NoteUserCases(
     val getNotes : GetNotesUserCase,
-    val deleteNote : DeleteNoteUserCase
+    val deleteNote : DeleteNoteUserCase,
+    val addNote : AddNoteUseCase
 )
